@@ -14,8 +14,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 * **Highlights:** CGPA 3.9832, 5x President’s List. 
 
 
-* **Relevant Coursework:** Artificial Intelligence, Predictive Modelling, Problem Solving with Data Structures and Algorithms, Stochastic Processes, Data Visualization with Reporting. 
-
+* **Relevant Coursework (A\*/A):** Artificial Intelligence, Predictive Modelling, Problem Solving with Data Structures and Algorithms, Probability & Statistics, Linear Algebra, Stochastic Processes, Data Visualization & Reporting
 
 
 ## Technical Skills
