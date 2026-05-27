@@ -21,7 +21,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 ## Technical Skills
 
 * **Languages:** Python, JavaScript, TypeScript, HTML, CSS, SQL
-* **Frameworks & Technologies:** Next.js, TailwindCSS, Vercel, Supabase
+* **Frameworks & Technologies:** Next.js, React, TailwindCSS, Vercel, Supabase
 * **AI & Machine Learning:** Gemini API, Qwen, XGBoost, Random Forest, Multi-Agent Pipelines
 
 ## Work Experience
@@ -70,7 +70,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 
 
 
-[High-Performance Python Sudoku Solver](https://github.com/ca1phas/Lab-2-Genetic-Algorithm-June-2025) | Sep 2023 
+[High-Performance Python Sudoku Solver](https://github.com/ca1phas/sudoku-solver) | Sep 2023 
 
 * Optimized a Python Sudoku solver to reduce the "World's Hardest Sudoku" solve time from 192s to 0.41s, achieving a massive 468x performance gain. 
 
@@ -79,7 +79,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 
 
 
-[Genetic Algorithm Optimizer](https://github.com/ca1phas/sudoku-solver) | Aug 2025 
+[Genetic Algorithm Optimizer](https://github.com/ca1phas/Lab-2-Genetic-Algorithm-June-2025) | Aug 2025 
 
 * Developed a Python-based genetic algorithm to solve the Travelling Salesperson Problem, optimizing routes across datasets of up to 400 nodes. 
 
