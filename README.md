@@ -20,7 +20,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 ## Technical Skills
 
 * **Languages:** Python, JavaScript, TypeScript, HTML, CSS, SQL
-* **Frameworks & Technologies:** Next.js, React, TailwindCSS, Vercel, Supabase
+* **Frameworks & Technologies:** Next.js, React, TailwindCSS, Vercel, Supabase, NestJS, React Native
 * **AI & Machine Learning:** Gemini API, Qwen, XGBoost, Random Forest, Multi-Agent Pipelines
 
 ## Work Experience
