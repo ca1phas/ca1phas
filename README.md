@@ -4,7 +4,7 @@ casimirchiong@gmail.com | +60-19 616 8280 | [www.linkedin.com/in/casimir-chiong]
 
 ## Professional Summary
 
-Full-Stack AI Engineer with a 3.98 CGPA in Applied Mathematics with Computing. Specialized in bridging the gap between complex engineering and end-user value through end-to-end agentic application development. Strong technical foundation in frontend/backend frameworks combined with award-winning public speaking skills. 
+Aspiring Full-Stack AI Engineer with a 3.98 CGPA in Applied Mathematics with Computing. Specialized in bridging the gap between complex engineering and end-user value through end-to-end agentic application development. Strong technical foundation in frontend/backend frameworks combined with award-winning public speaking skills. 
 
 ## Education
 
