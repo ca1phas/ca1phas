@@ -11,7 +11,7 @@ Aspiring Full-Stack AI Engineer with a 3.98 CGPA in Applied Mathematics with Com
 **Universiti Tunku Abdul Rahman (UTAR)** 
 Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – May 2027 
 
-* **Highlights:** CGPA 3.9832, 5x President’s List. 
+* **Highlights:** CGPA 3.9866, 5x President’s List. 
 
 
 * **Relevant Coursework (A\*/A):** Artificial Intelligence, Predictive Modelling, Problem Solving with Data Structures and Algorithms, Probability & Statistics, Linear Algebra, Stochastic Processes, Data Visualization & Reporting
