@@ -4,14 +4,14 @@ casimirchiong@gmail.com | +60-19 616 8280 | [www.linkedin.com/in/casimir-chiong]
 
 ## Professional Summary
 
-Aspiring Full-Stack AI Engineer with a 3.98 CGPA in Applied Mathematics with Computing. Specialized in bridging the gap between complex engineering and end-user value through end-to-end agentic application development. Strong technical foundation in frontend/backend frameworks combined with award-winning public speaking skills. 
+Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with Computing. Specialized in bridging the gap between complex engineering and end-user value through end-to-end agentic application development. Strong technical foundation in frontend/backend frameworks combined with award-winning public speaking skills. 
 
 ## Education
 
 **Universiti Tunku Abdul Rahman (UTAR)** 
 Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – May 2027 
 
-* **Highlights:** CGPA 3.9866, 5x President’s List. 
+* **Highlights:** CGPA 3.9866, 6x President’s List. 
 
 
 * **Relevant Coursework (A\*/A):** Artificial Intelligence, Predictive Modelling, Problem Solving with Data Structures and Algorithms, Probability & Statistics, Linear Algebra, Stochastic Processes, Data Visualization & Reporting
