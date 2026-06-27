@@ -15,26 +15,26 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 
 ## AI & Engineering Projects
 
-**Agentic Public Speaking Coach Assistant ([Budding Voice](https://www.linkedin.com/company/budding-voice/) Internal Pilot)** | Jun 2026 – Jun 2027 (Expected)
+**Agentic Public Speaking Coach Assistant ([Budding Voice](https://www.linkedin.com/company/budding-voice/) Internal Pilot)** | Jun 2026 – Present
 
-* **Tech Stack:** Next.js, Vercel AI SDK, Python FastAPI, LangGraph, Supabase (pgvector), Gemini 3.5 Flash, DeepSeek V4, DeepEval, RAGAS, LangSmith.
-* Architecting a B2B SaaS platform approved for a 6-month internal pilot, executing a phased deployment from backend multi-agent orchestration (Q3 2026) to frontend integration (Q4 2026).
-* Prototyping a GraphRAG architecture to automate student progress tracking by mapping temporal and causal relationships between behaviors and coaching interventions.
-* Evaluating Multimodal Large Language Models (MLLMs) to autonomously synthesize technical data and unstructured coach memos into formal evaluations against standardized Toastmasters rubrics.
-* Designing a PostgreSQL hybrid relational-graph schema optimized for a strict RM1.20 per student/month compute budget, integrating rigorous production telemetry prior to Q1 2027 full deployment.
+* **Proposed Stack**: Next.js, Python FastAPI, Supabase (pgvector), LangGraph, Gemini 3.5 Flash, DeepSeek V4.
+* **Spearheaded Domain-Driven Design and stakeholder alignment** for a B2B AI coaching SaaS, securing approval for a 6-month phased internal pilot (H2 2026).
+* **Designed a hybrid PostgreSQL schema** utilizing pgvector with HNSW indexing alongside an entity_edges table, architected to support future GraphRAG traversals to support any future migration to a dedicated graph database while simplifying current architecture.
+* **Designed the multi-agent backend specification**, mapping out LangGraph state transitions to ingest multimodal inputs (audio/video chunks, unstructured memos) and evaluate them against standard Toastmasters rubrics.
+* **Forecasted token economics** to ensure with high likelihood that operation costs will under RM1.20/student/month.
+* **Drafted the production evaluation strategy**, integrating DeepEval, RAGAS and LangSmith into the deployment roadmap (H1 2027) to programmatically monitor hallucination rates and context precision once live. 
 
 [**Career Atlas AI (USAII Global AI Hackathon Project)**](https://github.com/ca1phas/career-atlas-ai) | Jun 2026
 
-* **Architected a multi-agent AI pipeline** using Next.js, Vertex AI (Gemini 3.5 Flash), and the Vercel AI SDK to extract, classify, and verify professional skills from unstructured documents.
+* **Designed a multi-agent AI pipeline** using Next.js, Vertex AI (Gemini 3.5 Flash), and the Vercel AI SDK to extract, classify, and verify professional skills from unstructured documents.
 * **Designed a parallel audit framework** utilizing three specialized sub-agents executing concurrently to verify candidate skills against source documents, merging outputs through a Synthesizer agent.
-* **Eliminated LLM hallucinations** by implementing a deterministic TypeScript guardrail outside the LLM boundary that rejects any skill lacking traceable document evidence, enforcing strict structured output schemas (Zod validations) across all agent boundaries.
+* **Prevented schema hallucinations** by implementing a deterministic TypeScript guardrail outside the LLM boundary that rejects any skill lacking traceable document evidence, enforcing strict structured output schemas (Zod validations) across all agent boundaries.
 * **Engineered a live market alignment engine** utilizing Gemini 3.5 Flash integrated with Google Search Grounding to fetch real-time skill requirements from the web, ensuring roadmaps reflect active hiring trends.
 
 [**Preventative Nutritional Vision Tracker (Innovate For Impact Hackathon at UTAR)**](https://github.com/ca1phas/preventative-nutritional-vision-tracker) | Mar 2026
 
-* Architected an AI-powered full-stack web app integrating Gemini 2.5 Flash Lite and Qwen 2.5 to analyze meal images for ingredient and nutritional estimation via USDA FoodData Central.
-* Designed a multi-agent pipeline to assess personalized health impacts, enforcing strict structured schemas using the Gemini API to ensure reliable data handoffs between agents within the sequential pipeline.
-* Built the scalable infrastructure and interface using HTML, CSS, JavaScript, TailwindCSS, Supabase, Vite, and Vercel.
+* **Designed an AI-powered full-stack web app** integrating Gemini 2.5 Flash Lite and Qwen 2.5 to analyze meal images for ingredient and nutritional estimation via USDA FoodData Central.
+* **Designed a multi-agent pipeline** to assess personalized health impacts, enforcing strict structured schemas using the Gemini API to ensure reliable data handoffs between agents within the sequential pipeline.
 
 ## Work Experience
 
@@ -46,7 +46,7 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 * **Innovate For Impact Hackathon at UTAR** (Mar 2026) – AI Innovation Grand Champion. *Designed the user-centric solution and engineered the core AI API connections.*
 * **UKM Data Challenge** (Apr 2026) – Top 10.
 * **Multi-Award Winning Public Speaker** (2025-2026) – Secured 1st & 2nd Runner Up titles at Toastmasters International District 102 Area Contests and UTAR Impromptu Speaking Contests.
-* **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+, and coordinated 52 nationwide contestants.*
+* **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+ with RM3+ surplus, and coordinated 52 nationwide contestants.*
 
 ## Certifications
 * [Generative AI for Software Development](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2Fcertificate%2FGCRHRE0F8MJ2) (DeepLearning.AI). 
