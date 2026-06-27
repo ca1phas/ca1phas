@@ -38,19 +38,18 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 
 ## Work Experience
 
-* **Assistant Coach** | Budding Voice | Apr 2025 – Present (Manage educational activities and evaluate students' public speaking progress).
+* **Assistant Coach & AI Product Lead** | Budding Voice | Apr 2025 – Present (Manage educational activities and evaluate students' public speaking progress, establishing the domain knowledge required to architect the Agentic Public Speaking Coach Assistant.).
 * **Full-Stack Javascript Developer** | Lava X Technologies | Jan 2021 – Mar 2021 (Developed mobile apps utilizing TypeScript, React Native, Tailwind, and NestJS).
 * **Frontend UI/UX Junior Developer** | MooCommerce | Aug 2020 – Oct 2020 (Designed and developed responsive WordPress and PHP webpages to enhance UX).
 
 ## Leadership & Awards
-
-* **USAII Global AI Hackathon** (Jun 2026) – Top 200 Teams out of 
 * **Innovate For Impact Hackathon at UTAR** (Mar 2026) – AI Innovation Grand Champion. *Designed the user-centric solution and engineered the core AI API connections.*
 * **UKM Data Challenge** (Apr 2026) – Top 10.
 * **Multi-Award Winning Public Speaker** (2025-2026) – Secured 1st & 2nd Runner Up titles at Toastmasters International District 102 Area Contests and UTAR Impromptu Speaking Contests.
 * **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+, and coordinated 52 nationwide contestants.*
-* **UTAR Sungai Long Toastmasters Club** (Feb 2025 – Present) – Vice-President (Education & PR). *Directed the educational program to achieve 6 DCP targets and boosted engagement by 11%.*
 
 ## Certifications
-
-[Generative AI for Software Development](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2Fcertificate%2FGCRHRE0F8MJ2) (DeepLearning.AI), [Machine Learning](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F6HHHELIICH9C) (DeepLearning.AI), [Learn SQL Basics for Data Science](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2FZC0VQCH02I7U) (UC Davis), [Microsoft Data Visualization](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2Fcertificate%2FDMSLE00T1SXK) (Microsoft).
+* [Generative AI for Software Development](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2Fcertificate%2FGCRHRE0F8MJ2) (DeepLearning.AI). 
+* [Machine Learning](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F6HHHELIICH9C) (DeepLearning.AI). 
+* [Learn SQL Basics for Data Science](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2FZC0VQCH02I7U) (UC Davis). 
+* [Microsoft Data Visualization](https://www.google.com/search?q=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fprofessional-cert%2Fcertificate%2FDMSLE00T1SXK) (Microsoft).
