@@ -47,11 +47,12 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 
 
 ## AI & Engineering Projects
-Agentic Public Speaking Coach Assistant (Applied B2B SaaS for Budding Voice) | [Jun 2026 to Apr 2027 (Expected)]
+Agentic Public Speaking Coach Assistant ([Budding Voice](https://www.linkedin.com/company/budding-voice/) Internal Pilot) | [Jun 2026 to Jun 2027 (Expected)]
 * **Intended Tech Stack**: Next.js, Vercel AI SDK, Python Fast API in GCP Docker, LangGraph, Supabase (pgvector), Gemini 3.5 Flash, DeepSeek V4, DeepEval, RAGAS, LangSmith
+* Architecting a B2B SaaS platform approved for a 6-month internal pilot, executing a phased deployment from backend multi-agent orchestration (Q3 2026) to frontend integration (Q4 2026).
 * Investigating a GraphRAG architecture to automate student progress tracking by mapping temporal and causal relationships between behaviors and coaching interventions.
 * Evaluating Multimodal Large Language Models (MLLMs) to autonomously synthesize technical data and unstructured coach memos into formal evaluations against standardized Toastmasters rubrics.
-* Designing a PostgreSQL hybrid relational-graph database schema optimized to evaluate cost-efficiency against a strict RM1.20 per student per month infrastructure compute budget constraint.  
+* Designing a PostgreSQL hybrid relational-graph database schema optimized for a strict RM1.20 per student/month infrastructure budget, integrating rigorous production telemetry (DeepEval, RAGAS, LangSmith) by Q1 2027 prior to full deployment.
 
 
 [Career Atlas AI (USAII Global AI Hackathon Project)](https://github.com/ca1phas/career-atlas-ai) | [Jun 2026]
