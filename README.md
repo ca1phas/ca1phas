@@ -47,8 +47,18 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 
 
 ## AI & Engineering Projects
+[Career Atlas AI (USAII Global AI Hackathon Project)](https://github.com/ca1phas/career-atlas-ai) | [Jun 2026]
 
-[Preventative Nutritional Vision Tracker (End-to-End Agentic Web App)](https://github.com/ca1phas/preventative-nutritional-vision-tracker) | Mar 2026 
+* **Architected a multi-agent AI pipeline** using Next.js, Vertex AI (Gemini 3.5 Flash), and the Vercel AI SDK to extract, classify, and verify professional skills from unstructured documents.
+
+* **Designed a parallel audit framework** utilizing three specialized sub-agents executing concurrently to verify candidate skills against source documents, merging outputs through a Synthesizer agent.
+
+* **Eliminated LLM hallucinations** by implementing a deterministic TypeScript guardrail outside the LLM boundary that rejects any skill lacking traceable document evidence, enforcing strict structured output schemas (Zod validations) across all agent boundaries.
+
+* **Engineered a live market alignment engine** utilizing Gemini 3.5 Flash integrated with Google Search Grounding to fetch real-time skill requirements from the web, ensuring roadmaps reflect active hiring trends.
+
+
+[Preventative Nutritional Vision Tracker (Project for Innovate For Impact Hackathon at UTAR)](https://github.com/ca1phas/preventative-nutritional-vision-tracker) | Mar 2026 
 
 * Architected an AI-powered full-stack web app integrating Gemini 2.5 Flash Lite and Qwen 2.5 to analyze meal images for ingredient and nutritional estimation via USDA FoodData Central. 
 
@@ -58,7 +68,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 
 * Built the scalable infrastructure and interface using HTML, CSS, JavaScript, TailwindCSS, Supabase, Vite, and Vercel. 
 
-
+* Enforced strict structured schemas using the Gemini API to ensure reliable data handoffs between agents within the sequential pipeline.
 
 [COVID-19 Case Trend Predictor](https://github.com/ca1phas/Lab-3-Supervised-Learning) | Sep 2025 
 
@@ -87,6 +97,7 @@ Bachelor of Science (Honours) Applied Mathematics with Computing | Jun 2024 – 
 ## Honors & Awards
 
 * **Top 10** – UKM Data Challenge (Apr 2026)
+
 * **AI Innovation Grand Champion** – Innovate For Impact Hackathon at UTAR (Mar 2026).  *Designed the user-centric solution, delivered the winning pitch to judges, and engineered the core AI API connections.*
 
 
