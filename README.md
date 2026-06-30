@@ -38,13 +38,14 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 ## Work Experience
 
 * **Assistant Coach & AI Product Lead** | Budding Voice | Apr 2025 – Present | Manage educational activities and evaluate students' public speaking progress, establishing the domain knowledge required to architect the Agentic Public Speaking Coach Assistant.
-* **Full-Stack Javascript Developer** | Lava X Technologies | Jan 2021 – Mar 2021 | Developed mobile apps utilizing TypeScript, React Native, Tailwind, and NestJS.
+* **Full-Stack JavaScript Developer** | Lava X Technologies | Jan 2021 – Mar 2021 | Developed mobile apps utilizing TypeScript, React Native, Tailwind, and NestJS.
 * **Frontend UI/UX Junior Developer** | MooCommerce | Aug 2020 – Oct 2020 | Designed and developed responsive WordPress and PHP webpages to enhance UX.
 
 ## Leadership & Awards
+* **USAII Global AI Hackathon 2026** (Jun 2026) - Finalist in a hackathon consisting of 427 teams.
 * **Innovate For Impact Hackathon at UTAR** (Mar 2026) – AI Innovation Grand Champion.
 * **UKM Data Challenge** (Apr 2026) – Top 10.
-* **Multi-Award Winning Public Speaker** (2025-2026) – Secured 1st & 2nd Runner Up titles at Toastmasters International District 102 Area Contests and UTAR Impromptu Speaking Contests.
+* **Multi-Award-Winning Public Speaker** (2025-2026) – Secured 1st & 2nd Runner-Up titles at Toastmasters International District 102 Area Contests and UTAR Impromptu Speaking Contests.
 * **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+ with RM3+ surplus, and coordinated 52 nationwide contestants.*
 
 ## Certifications
