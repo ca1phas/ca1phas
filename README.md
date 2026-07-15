@@ -36,8 +36,8 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 * **Designed a multi-agent pipeline** to assess personalized health impacts, enforcing strict structured schemas using the Gemini API to ensure reliable data handoffs between agents within the sequential pipeline.
 
 ## Work Experience
-
-* **Assistant Coach & AI Product Lead** | Budding Voice | Apr 2025 – Present | Manage educational activities and evaluate students' public speaking progress, establishing the domain knowledge required to architect the Agentic Public Speaking Coach Assistant.
+* **AI Product Engineer** | Budding Voice | July 2025 - Present | Building a production-ready Agentic Communication Coach Assistant capable of automatically providing accurate evaluation reports and tracking student progress. 
+* **Assistant Coach** | Budding Voice | Apr 2025 – Present | Lead classes by implementing educational activities designed by the Lead Coach for students aged 4–12 with diverse needs. 
 * **Full-Stack JavaScript Developer** | Lava X Technologies | Jan 2021 – Mar 2021 | Developed mobile apps utilizing TypeScript, React Native, Tailwind, and NestJS.
 * **Frontend UI/UX Junior Developer** | MooCommerce | Aug 2020 – Oct 2020 | Designed and developed responsive WordPress and PHP webpages to enhance UX.
 
