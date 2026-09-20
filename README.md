@@ -26,8 +26,7 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 
 * **AI Product Engineer** (Jul 2026 – Present, Hybrid) — Building a production-ready Agentic Communication Coach Assistant that automatically produces accurate evaluation reports and tracks student progress. *Next.js, Tailwind CSS, Vercel; GCP (Cloud Run Services, Cloud Run Jobs, Cloud Scheduler); Cloudflare R2; Supabase (Postgres, pgvector, Auth); LangGraph; Vercel AI SDK.*
 * **Centre Manager** (Sep 2026 – Present, On-site) — Own all monthly evaluations across the centre’s classes, individual class reports, and lead coaches; organize the term showcase in collaboration with centre management.
-* **Lead Coach** (Aug 2026 – Present, On-site) — Manage Assistant Coaches, class materials, and monthly student evaluations for Saturday’s classes.
-* **Assistant Coach** (Jul 2026, On-site) — Led classes by implementing educational activities designed by the Lead Coach for students aged 4–12 with diverse needs.
+* **Lead Coach** (Aug 2026 – Present, On-site) — Promoted from Assistant Coach after one month. Manage Assistant Coaches, class materials, and monthly student evaluations for Saturday’s classes, serving students aged 4–12 with diverse needs.
 * **Public Speaking Facilitator** (Apr 2025 – Jun 2026, On-site) — Assisted the Lead Coach in creating and implementing educational activities, evaluating students’ public speaking progress, and supporting children aged 5–11 with diverse needs.
 
 **Full-Stack JavaScript Developer** | Lava X Technologies | Jan 2021 – Mar 2021
@@ -68,7 +67,7 @@ Aspiring Full-Stack AI Engineer with a 3.9866 CGPA in Applied Mathematics with C
 * **UKM Data Challenge** (Apr 2026) – Top 10.
 * **Innovate For Impact Hackathon at UTAR** (Mar 2026) – AI Innovation Grand Champion.
 * **Multi-Award-Winning Public Speaker** (2025–2026) – Champion, Club Table Topics Contest 2026-27 (UTAR Sungai Long Toastmasters Club, Sep 2026); 1st Place, 3-Minute Impromptu Public Speaking Contest (UTAR Faculty of Creative Industries, Jul 2026); 1st & 2nd Runner-Up at Toastmasters International District 102 Area Contests.
-* **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+ with RM3+ surplus, and coordinated 52 nationwide contestants.*
+* **1st UTAR National Speech Competition** (Dec 2024 – Nov 2025) – Organizing Chair. *Led a 34-person team, raised RM15K+ with RM3K+ surplus, and coordinated 52 nationwide contestants.*
 
 ## Certifications
 
