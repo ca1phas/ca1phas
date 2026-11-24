@@ -26,7 +26,7 @@ Aspiring Full-Stack AI Engineer with a 3.9892 CGPA in Applied Mathematics with C
 
 * **AI Product Engineer** (Jul 2026 – Present, Hybrid) — Building a production-ready Agentic Communication Coach Assistant that automatically produces accurate evaluation reports and tracks student progress. *Next.js, Tailwind CSS, Vercel; GCP (Cloud Run Services, Cloud Run Jobs, Cloud Scheduler); Cloudflare R2; Supabase (Postgres, pgvector, Auth); LangGraph; Vercel AI SDK.*
 * **Centre Manager** (Sep 2026 – Oct 2026, On-site) — Owned all monthly evaluations across the centre’s classes, individual class reports, and lead coaches; organized the term showcase in collaboration with centre management.
-* **Lead Coach** (Aug 2026 – Dec 2026, On-site) — Promoted from Assistant Coach after one month. Manage Assistant Coaches, class materials, and monthly student evaluations for Saturday’s classes, serving students aged 4–12 with diverse needs.
+* **Lead Coach** (Aug 2026 – Dec 2026, On-site) — Promoted from Assistant Coach after one month. Managed Assistant Coaches, class materials, and monthly student evaluations for Saturday’s classes, serving students aged 4–12 with diverse needs.
 * **Public Speaking Facilitator** (Apr 2025 – Jun 2026, On-site) — Assisted the Lead Coach in creating and implementing educational activities, evaluating students’ public speaking progress, and supporting children aged 5–11 with diverse needs.
 
 **Full-Stack JavaScript Developer** | Lava X Technologies | Jan 2021 – Mar 2021
